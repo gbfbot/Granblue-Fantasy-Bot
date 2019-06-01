@@ -1,5 +1,6 @@
 # Granblue-Fantasy-Bot
 Cracked Granblue Fantasy Bot
 
-Install as chrome extension.
-Slightly outdated (auto captcha no longer working)
+1. Install as chrome extension.
+2. Set in-game language to japanese
+- Auto captcha no longer working
